@@ -18,7 +18,7 @@ show_social: true             # show site description and social links in the fo
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Let’s Connect!"}
   - {file: "index.html", title: "Home Page", icon: home}
-  - {file: "Rezjerock.pdf", title: "Resume"}
+  - {file: "/assets/Rezjerock.pdf", title: "Resume"}
   - {file: "README.md", title: "About Myself", icon: address-card}
   - {title: "Project", url: "https://github.com/jerockkalala/My_project"}
 
@@ -35,3 +35,8 @@ comments:
 
 plugins:
  - jekyll-feed
+ 
+footer_text: >
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>. 
