@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Enjoy my page!
+title: Welcome to my page!
 ---
 
 Welcome to my blog. 
