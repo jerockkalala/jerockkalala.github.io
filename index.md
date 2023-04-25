@@ -13,14 +13,6 @@ debugging (Windows OS, MS Office, antivirus,
 etc.), Active Directory
 - Networks – LAN/WAN technology, TCP/IP
 - Programming –Python, R basics, JAVA, SQL,
-HTML & CSS basics, Web Scraping ·
- Machine Learning · NLP · TensorFlow
+HTML & CSS basics, Web Scraping, Machine Learning · NLP · TensorFlow
 - Hardware – assembly desktop/Laptop,
-maintenance, peripherals, Printers, Drivers,
- troubleshooting
- Positive attitude
- Problem-solving
- Teamwork and attention to details
- Self-motivated able to work under pressure
- Dedicated work ethic
- Communication
+maintenance, peripherals, Printers, Drivers, troubleshooting, Positive attitude, Problem-solving, Teamwork and attention to details, Self-motivated able to work under pressure, Dedicated work ethic, Communication
