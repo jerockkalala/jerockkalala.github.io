@@ -9,6 +9,6 @@ Let's connect
 
 
 ![My image Name](/assets/css/IMG_20190512_231134.jpg){:height="600px" width="250px"}
-![My image Name](/assets/css/IMG_20190622_192640.jpg){:height="600px" width="200px"}
+![My image Name](/assets/css/IMG_20190622_192640.jpg){:height="700px" width="300px"}
 ![My image Name](/assets/css/IMG_20191228_194915.jpg){:height="500px" width="250px"}
 
