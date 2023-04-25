@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "/assets/Rezjerock.pdf", title: "Resume"}
   - {file: "README.md", title: "About Myself", icon: address-card}
   - {title: "Project", url: "https://github.com/jerockkalala/My_project"}
+  - {title: "CV", url: "https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:734f6e05-9df8-3a54-932b-2b39033cecf1"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: "Let’s Connect!"}
