@@ -2,7 +2,7 @@
 layout: page
 title: Group Projects
 ---
-As part of our last course to obtain the bachelor's degree in Data Science, we had the opportunity to work on three different projects briefly presented below:
+As part of our last course (DSC450-T301 Applied Data Science) to obtain the bachelor's degree in Data Science, we had the opportunity to work on three different projects briefly presented below:
 
 - AMAZON AND YELP REVIEWS USING SENTIMENT ANALYSIS
 For this project, we have chosen to utilize Yelp and Amazon review data from Kaggle that will be used to analyze the sentiment of the review responses to determine whether the review is overall positive neutral or negative. Our overall business problem is to determine if customers of restaurants and purchased merchandise are more likely to post a review over a positive experience or a negative experience. Overall, between the Amazon and Yelp data, we found the majority of people who post restaurant and merchandise reviews are doing so because they had an overall positive experience. 
