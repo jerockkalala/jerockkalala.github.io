@@ -6,7 +6,6 @@ As part of our last course (DSC450-T301 Applied Data Science) to obtain the bach
 
 - AMAZON AND YELP REVIEWS USING SENTIMENT ANALYSIS
 For this project, we have chosen to utilize Yelp and Amazon review data from Kaggle that will be used to analyze the sentiment of the review responses to determine whether the review is overall positive neutral or negative. Our overall business problem is to determine if customers of restaurants and purchased merchandise are more likely to post a review over a positive experience or a negative experience. Overall, between the Amazon and Yelp data, we found the majority of people who post restaurant and merchandise reviews are doing so because they had an overall positive experience. 
-BUSINESS PROBLEM/HYPOTHESIS
 The business problem/hypothesis was to determine if customers of restaurants and purchased merchandise are more likely to post a review over a positive experience or a negative experience. This could allow businesses to begin offering incentives for their customers to leave reviews regardless of their experience to get a more well-rounded review base. 
 [Learn more about this first project](https://www.youtube.com/watch?reload=9&v=K7zAx8Q-d3Q)
 - PREDICTING THE BEST OFFENSIVE MLB PLAYERS USING MACHINE LEARNING
