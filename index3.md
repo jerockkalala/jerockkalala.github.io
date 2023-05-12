@@ -2,20 +2,16 @@
 layout: page
 title: Group Projects?
 ---
-
-I am an IT support specialist, and a Data scientist. I like helping people by providing technical support, and by putting their data to work - from data wrangling to report automation. I Balance priorities while quickly solving issues to strengthen business processes and
-performance. Show development in my
-skills and knowledge, I help clients to achieve growth and success. I spent some time learning, I have a BS of Science in Math-informatics from [University of Kinshasa](https://www.unikin.ac.cd/), and an AAS in Computer Information Technology from [Bluegrass Community and Technical College](https://bluegrass.kctcs.edu/), and will graduate soon to obtain a BS in Data Science at [Bellevue University](https://www.bellevue.edu/).
+As part of our last course to obtain the bachelor's degree in Data Science, we had the opportunity to work on three different projects briefly presented below:
 
 - AMAZON AND YELP REVIEWS USING SENTIMENT ANALYSIS
 For this project, we have chosen to utilize Yelp and Amazon review data from Kaggle that will be used to analyze the sentiment of the review responses to determine whether the review is overall positive neutral or negative. Our overall business problem is to determine if customers of restaurants and purchased merchandise are more likely to post a review over a positive experience or a negative experience. Overall, between the Amazon and Yelp data, we found the majority of people who post restaurant and merchandise reviews are doing so because they had an overall positive experience. 
 BUSINESS PROBLEM/HYPOTHESIS
-Determine if customers of restaurants and purchased merchandise are more likely to post a review over a positive experience or a negative experience. This could allow businesses to begin offering incentives for their customers to leave reviews regardless of their experience to get a more well-rounded review base. 
-[Learn more about  this project](https://www.youtube.com/watch?reload=9&v=K7zAx8Q-d3Q)
+The business problem/hypothesis was to determine if customers of restaurants and purchased merchandise are more likely to post a review over a positive experience or a negative experience. This could allow businesses to begin offering incentives for their customers to leave reviews regardless of their experience to get a more well-rounded review base. 
+[Learn more about this first project](https://www.youtube.com/watch?reload=9&v=K7zAx8Q-d3Q)
 - PREDICTING THE BEST OFFENSIVE MLB PLAYERS USING MACHINE LEARNING
 For Project 2, we have chosen to predict the best MLB (Major League Baseball) offensive players using data from ESPN.com.  We are working with four datasets, broken down by team statistics, player statistics, and seasons (2021 & 2022).  We first look at team stats from 2021 to help us determine that Runs are an important part of a team’s winning percentage.  We then use Runs as our target to train the 2021 player dataset.  Once our machine learning model is built with an acceptable score, we will predict using the 2022 datasets.  Overall, our model achieved a 90% accuracy score, and we can validate that our predictions for how many runs a player will score per game in 2022 appear to be accurate.  Therefore, we feel that this model is successful in predicting some of the best offensive players in the game.
-BUSINESS PROBLEM/HYPOTHESIS
-Baseball is a sport filled with many statistics.  However, there are so many statistics, how can someone easily know which one to use when finding the best players?  Our stakeholders could look at numerous statistics such as Runs, RBIs, Walks, and Strikeouts just to name a few, but still may not know which statistic(s) is the best to use for selecting players.   To help solve this problem, we will use data science and machine learning models to make predictions on the best MLB offensive baseball players based on their current statistics. [Learn more about  this project](https://www.youtube.com/watch?v=oG7GaFo-j4U)
+Baseball is a sport filled with many statistics.  However, there are so many statistics, how can someone easily know which one to use when finding the best players?  Our stakeholders could look at numerous statistics such as Runs, RBIs, Walks, and Strikeouts just to name a few, but still may not know which statistic(s) is the best to use for selecting players.   To help solve this problem, we will use data science and machine learning models to make predictions on the best MLB offensive baseball players based on their current statistics. [Learn more about this second project](https://www.youtube.com/watch?v=oG7GaFo-j4U)
 
 - Predicting Walmart Store Sales using Machine Learning – Python
 
