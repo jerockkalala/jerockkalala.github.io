@@ -19,9 +19,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index2.md", title: "Home Page", icon: home}
 #  - {file: "/assets/Rezjerock.pdf", title: "Resume"}
   - {file: "index.md", title: "About Me"}
-  - {file: "index3.md", title: "Full Projects", icon: book}
+  - {file: "index3.md", title: "Full Projects", title: "Projects"}
 #  - {title: "Full Projects", url: "https://github.com/jerockkalala/My_project"}
-  - {title: "Project_assignment", url: "https://github.com/jerockkalala/My_project"}
+  - {icon: book, url: "https://github.com/jerockkalala/My_project"}
   - {title: "CV", url: "https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:734f6e05-9df8-3a54-932b-2b39033cecf1"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
