@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Group Projects?
+title: Group Projects
 ---
 As part of our last course to obtain the bachelor's degree in Data Science, we had the opportunity to work on three different projects briefly presented below:
 
