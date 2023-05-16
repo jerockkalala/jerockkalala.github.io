@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "About Me"}
   - {file: "index3.md", title: "Full Projects", title: "Projects"}
 #  - {title: "Full Projects", url: "https://github.com/jerockkalala/My_project"}
-  - {title: "CV", url: "https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:734f6e05-9df8-3a54-932b-2b39033cecf1"}
+  - {title: "CV", url: "https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:1373665a-ad22-36dd-83dd-3ca02a37b968"}
   - {icon: book, url: "https://github.com/jerockkalala/My_project"}
 
 
