@@ -14,3 +14,5 @@ Baseball is a sport filled with many statistics.  However, there are so many sta
 
 - Predicting Walmart Store Sales using Machine Learning – Python
 This is our third project during the Spring semester at Bellevue University, and we have chosen to work on forecasting Walmart sales using data from Kaggle.com. We will be working with four different datasets covering the period from 2010-02-05 to 2013-07-26. We select important features available in the datasets to predict sales. As you guessed correctly, our target variable is sales, given here by the weekly sales average. After cleaning, transforming, and splitting our data in training and test datasets, we will choose the appropriate model, and build our machine-learning model. If satisfied with its performance after training, we will then use it on the testing dataset for prediction. Overall, our model achieved an accuracy score of 97%, meaning there is only a 3% chance of error. With this score, we feel that the model is good, and will successfully predict the sales. [Learn more about this third project](https://youtu.be/8w66_iANhVI) 
+
+- Check back for the next project...
